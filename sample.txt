@@ -1,0 +1,4 @@
+Hello file!
+Hello world! This is an append instead of write
+Hello world! This is an append instead of write
+Hello file again! This is written with block convention
